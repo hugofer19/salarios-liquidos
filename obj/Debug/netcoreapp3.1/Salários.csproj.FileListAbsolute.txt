@@ -1,0 +1,13 @@
+E:\PROGRAMA\C#\Salários\bin\Debug\netcoreapp3.1\Salários.exe
+E:\PROGRAMA\C#\Salários\bin\Debug\netcoreapp3.1\Salários.deps.json
+E:\PROGRAMA\C#\Salários\bin\Debug\netcoreapp3.1\Salários.runtimeconfig.json
+E:\PROGRAMA\C#\Salários\bin\Debug\netcoreapp3.1\Salários.runtimeconfig.dev.json
+E:\PROGRAMA\C#\Salários\bin\Debug\netcoreapp3.1\Salários.dll
+E:\PROGRAMA\C#\Salários\bin\Debug\netcoreapp3.1\Salários.pdb
+E:\PROGRAMA\C#\Salários\obj\Debug\netcoreapp3.1\Salários.csprojAssemblyReference.cache
+E:\PROGRAMA\C#\Salários\obj\Debug\netcoreapp3.1\Salários.AssemblyInfoInputs.cache
+E:\PROGRAMA\C#\Salários\obj\Debug\netcoreapp3.1\Salários.AssemblyInfo.cs
+E:\PROGRAMA\C#\Salários\obj\Debug\netcoreapp3.1\Salários.csproj.CoreCompileInputs.cache
+E:\PROGRAMA\C#\Salários\obj\Debug\netcoreapp3.1\Salários.dll
+E:\PROGRAMA\C#\Salários\obj\Debug\netcoreapp3.1\Salários.pdb
+E:\PROGRAMA\C#\Salários\obj\Debug\netcoreapp3.1\Salários.genruntimeconfig.cache
